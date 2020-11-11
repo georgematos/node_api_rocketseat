@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+const mongoosePaginate = require('mongoose-paginate');
 
 // Seria o equivalente a uma entidade do JPA
 const ProductSchema = new mongoose.Schema({
@@ -19,5 +20,7 @@ const ProductSchema = new mongoose.Schema({
     default: Date.now
   }
 });
+
+ProductSchema.plugin(mongoosePaginate);
 
 mongoose.model('Product', ProductSchema);
