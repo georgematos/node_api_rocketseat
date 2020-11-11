@@ -1,10 +1,12 @@
 const express = require('express'); // gerenciamento das rotas REST da aplicacao
+const cors = require('cors');
 const mongoose = require('mongoose'); // ORM Javascript
-const requireDir = require('require-dir'); 
+const requireDir = require('require-dir');
 
 // Iniciando o App
 const app = express();
 app.use(express.json()) // permite enviar dados em formato JSON para a aplicacao
+app.use(cors());
 
 // Iniciando o BD (conexao com o banco de dados)
 mongoose.connect('mongodb://localhost:27017/nodeapi', {
