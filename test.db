@@ -1,0 +1,95 @@
+{
+  "title": "React Native",
+  "description": "A framework for building native apps with React.",
+  "url": "https://github.com/facebook/react-native",
+  "createdAt": "2018-08-08T18:09:47.706Z"
+}
+{
+  "title": "ReactJS",
+  "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+  "url": "https://github.com/facebook/react",
+  "createdAt": "2018-08-08T18:18:23.481Z"
+}
+{
+  "title": "Nuclice",
+  "description": "An open IDE for web and native mobile development, built on top of Atom",
+  "url": "https://github.com/facebook/nuclide",
+  "createdAt": "2018-08-08T18:19:47.921Z"
+}
+{
+  "title": "Relay",
+  "description": "Relay is a JavaScript framework for building data-driven React applications.",
+  "url": "https://github.com/facebook/relay",
+  "createdAt": "2018-08-08T18:20:02.073Z"
+}
+{
+  "title": "create-react-app",
+  "description": "Create React apps with no build configuration.",
+  "url": "https://github.com/facebook/create-react-app",
+  "createdAt": "2018-08-08T18:20:25.374Z"
+}
+{
+  "title": "flow",
+  "description": "Adds static typing to JavaScript to improve developer productivity and code quality.",
+  "url": "https://github.com/facebook/flow",
+  "createdAt": "2018-08-08T18:20:41.704Z"
+}
+{
+  "title": "flipper",
+  "description": "A desktop debugging platform for mobile developers.",
+  "url": "https://github.com/facebook/flipper",
+  "createdAt": "2018-08-08T18:20:55.689Z"
+}
+{
+  "title": "Jest",
+  "description": "Delightful JavaScript Testing.",
+  "url": "https://github.com/facebook/jest",
+  "createdAt": "2018-08-08T18:21:15.191Z"
+}
+{
+  "title": "Metro",
+  "description": "The JavaScript bundler for React Native.",
+  "url": "https://github.com/facebook/metro",
+  "createdAt": "2018-08-08T18:21:28.595Z"
+}
+{
+  "title": "watchman",
+  "description": "Watches files and records, or triggers actions, when they change.",
+  "url": "https://github.com/facebook/watchman",
+  "createdAt": "2018-08-08T18:21:49.787Z"
+}
+{
+  "title": "reason",
+  "description": "Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems",
+  "url": "https://github.com/facebook/reason",
+  "createdAt": "2018-08-08T18:22:05.474Z"
+}
+{
+  "title": "GraphQL",
+  "description": "GraphQL is a query language and execution engine tied to any backend service.",
+  "url": "https://github.com/facebook/graphql",
+  "createdAt": "2018-08-08T18:22:21.966Z"
+}
+{
+  "title": "Docosauros",
+  "description": "Easy to maintain open source documentation websites.",
+  "url": "https://github.com/facebook/docosauros",
+  "createdAt": "2018-08-08T18:22:37.367Z"
+}
+{
+  "title": "reason",
+  "description": "Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems",
+  "url": "https://github.com/facebook/reason",
+  "createdAt": "2018-08-08T18:22:05.474Z"
+}
+{
+  "title": "GraphQL",
+  "description": "GraphQL is a query language and execution engine tied to any backend service.",
+  "url": "https://github.com/facebook/graphql",
+  "createdAt": "2018-08-08T18:22:21.966Z"
+}
+{
+  "title": "Docosauros",
+  "description": "Easy to maintain open source documentation websites.",
+  "url": "https://github.com/facebook/docosauros",
+  "createdAt": "2018-08-08T18:22:37.367Z"
