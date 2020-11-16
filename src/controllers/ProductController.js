@@ -8,10 +8,10 @@ module.exports = {
     // busca todos os registros de Product
     // const product = await Product.find();
 
-    const { page = 1 } = req.query; // query para parametros Get
+    const { page = 1, limit = 10 } = req.query; // query para parametros Get
 
     // busca registros paginados
-    const products = await Product.paginate({}, { page: page, limit: 10 });
+    const products = await Product.paginate({}, { page: page, limit: parseInt(limit) });
 
     return res.json(products);
   },
